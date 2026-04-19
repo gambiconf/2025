@@ -17,8 +17,8 @@
           <div class="video-container">
             <iframe
               class="video"
-              src="https://www.youtube.com/embed/videoseries?si=OB21isYlfUUr6cxd&amp;list=PL5Vh5eXgFvesu0Y9izrwaxCYxH_J0iY77"
-              title="YouTube video player / GambiConf 2024 Edition"
+              src="https://www.youtube.com/embed/videoseries?si=OB21isYlfUUr6cxd&amp;list=PL5Vh5eXgFvesEYBZ4MMf1SE4G2VnmL-IV"
+              title="YouTube video player / GambiConf 2025 Edition"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
@@ -32,8 +32,8 @@
           <div class="video-container">
             <iframe
               class="video"
-              src="https://www.youtube.com/embed/Ip20X5l2ZHo?si=Ynxc-vWHdB3F0WsV"
-              title="YouTube video player / Gambiconf 2024 Painel"
+              src="https://www.youtube.com/embed/AXDhhCU5uu8?si=guj0Rx51oeP-yVcI"
+              title="YouTube video player / GambiConf 2025 Painel"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
@@ -44,7 +44,7 @@
 
       <div class="links">
         <Link
-          href="https://youtube.com/playlist?list=PL5Vh5eXgFvesu0Y9izrwaxCYxH_J0iY77"
+          href="https://www.youtube.com/playlist?list=PL5Vh5eXgFvesEYBZ4MMf1SE4G2VnmL-IV"
           target="_blank"
           rel="noopener"
         >

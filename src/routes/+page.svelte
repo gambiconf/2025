@@ -8,22 +8,20 @@
   import RowEvent from "../components/RowEvent.svelte"
   import RowCfp from "../components/RowCfp.svelte"
   import SponsorBar from "../components/SponsorBar.svelte"
-  import LocationWarning from "../components/LocationWarning.svelte"
 </script>
 
 <Hero />
 <SponsorBar />
-<LocationWarning />
 
 <div class="wrapper-content">
   <div class="hero-margin"></div>
 
-  <!-- <RowEvent />
+  <RowEvent />
 
   <div class="bullters-gutter-wrapper">
     <BulletsGutter />
   </div>
- -->
+
   <RowWhatIsGambiConf />
 
   <div class="bullters-gutter-wrapper">
@@ -63,11 +61,5 @@
 
     padding-top: 50px;
     padding-bottom: 100px;
-  }
-
-  @media screen and (min-width: 768px) {
-    .wrapper-content {
-      padding-top: 200px;
-    }
   }
 </style>
