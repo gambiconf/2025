@@ -2,7 +2,7 @@
 
 > 🐒 The Blow Your Mind Conference
 
-![Website screenshot](https://user-images.githubusercontent.com/9501115/162629911-d01fcf9d-61be-4d3b-9503-8ab04d496554.png)
+![Website screenshot](https://github.com/user-attachments/assets/bf99eff8-f3c1-4377-a200-35038a466bd6)
 
 ## How to run
 
