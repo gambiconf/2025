@@ -1,9 +1,9 @@
-import preprocess from "svelte-preprocess";
+import { sveltePreprocess } from "svelte-preprocess";
 import staticAdapter from "@sveltejs/adapter-static";
 
 const environment = process.env.ENV;
 const mapEnvironmentToBasePath = {
-  production: "",
+  production: "/2025",
   staging: "/website-staging",
 };
 const basePath = mapEnvironmentToBasePath[environment] ?? process.env.BASE_PATH;
@@ -12,7 +12,7 @@ const basePath = mapEnvironmentToBasePath[environment] ?? process.env.BASE_PATH;
 const config = {
   // Consult https://github.com/sveltejs/svelte-preprocess
   // for more information about preprocessors
-  preprocess: preprocess(),
+  preprocess: sveltePreprocess(),
 
   onwarn: (warning, handler) => {
     if (
